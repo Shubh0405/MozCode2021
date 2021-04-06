@@ -66,7 +66,7 @@ body {
 .mfcicon{
     width: 8%;
     float: right;
-    margin: 40px 0px;
+    margin: 20px 0px;
 }
 .mozcode{
     position: absolute;
@@ -115,7 +115,7 @@ body {
     .wave3{
         width: 750px;
         height: 775px;
-        top: -105%;
+        top: -95%;
         left: -20%;
     }
     .wave1{
@@ -135,6 +135,7 @@ body {
         width: 150px;
         height: 20%;
         float: none;
+        margin: 40px 0px;
     }
     .mozcode img{
         height: 80px;
@@ -161,7 +162,7 @@ body {
 
 @media only screen and (max-width: 380px){
     .wave3{
-        top:-105%;
+        top:-90%;
     }
     .wave1{
         bottom:-35%;
